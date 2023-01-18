@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="generic_error">Error Occurred</string>
+    <string name="city_not_found">Sorry, we are not able to find this city name</string>
+    <string name="weather_units"> º C</string>
+    <string name="weather_today">Today</string>
+</resources>
